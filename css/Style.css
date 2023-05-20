@@ -1,0 +1,192 @@
+header{
+    width: 100%;
+    height: 100vh;
+    overflow: visible;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(/img/Symphony.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.icon a i{
+    padding: 10px;
+}
+.dropdown-menu:hover{
+    background-color: #fff;
+    color: black;
+}
+.h{
+    color: white;
+    margin-top: 120px;
+    font-weight: 700;
+    font-size: 15px;
+    letter-spacing: 10px;
+}
+.hh{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-weight: 400;
+    font-size: 100px;
+    font-family:serif;
+    letter-spacing: 40px;
+}
+.section-1{
+    background-color: rgb(17, 17, 17);
+    padding: 50px 0 120px 0;
+    z-index: -1;
+}
+.pr{
+    font-family: "Josefin Sans",sans-serif;
+    overflow-wrap: break-word;
+    font-weight: 300;
+    font-size: 13px;
+    letter-spacing: 1px;
+    margin-left: -20px;
+    line-height: 27px;
+}
+.hhh{
+    font-family: "Josefin Sans",sans-serif;
+    font-weight: 700;
+    letter-spacing: 5px;
+}
+.section-2{
+    width: 100%;
+    height:70vh ;
+    background-image:url(/img/img-bg\ section-2.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.img-section-2{
+    margin-top: -45px;
+}
+.play a i{
+    position: absolute;
+    top: 30vh;
+    left: 49%;
+    font-size: 70px;
+    color: rgb(18, 129, 129);
+    font-weight: 50;
+   
+}
+.section-3{
+    margin-top: 150px;
+    font-family: "Josefin Sans",sans-serif;
+}
+.five-star i{
+    padding: 5px;
+    font-weight: 50;
+}
+.section-3 h4{
+    font-size: 20px;
+    font-weight: 50;
+    line-height: 40px;
+    color: rgb(78, 76, 76);
+    letter-spacing: 4px;
+    font-style: italic;
+    
+}
+.section-3 p{
+    color: rgb(90, 90, 88);
+    letter-spacing: 2px;
+}
+.section-4{
+    font-family: "Josefin Sans",sans-serif;
+    margin-top: 90px;
+    padding-top: 90px;
+    background-color: rgb(20, 20, 20);
+}
+.section-4 h5{
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+.section-4 h3{
+    margin-bottom: 30px;
+    font-weight: 600;
+    letter-spacing: 5px;
+
+}
+.section-5{
+    font-family: "Josefin Sans",sans-serif;
+    padding-bottom: 100px;
+    background-color: white;
+}
+.section-5 h5{
+    margin-top: 100px;
+    font-size: 13px;
+    letter-spacing: 3px;
+    font-weight: 800;
+    color: rgb(139, 136, 136);
+}
+.section-5 h3{
+    font-weight: 600;
+    letter-spacing: 5px;
+}
+.c-i{
+    margin-top: 70px;
+    font-family: "Josefin Sans",sans-serif;
+}
+.title{
+    font-family: "Josefin Sans",sans-serif;
+    font-size: 18px;
+    font-weight: 550;
+    letter-spacing: 3px;
+}
+.body{
+    font-family: "Josefin Sans",sans-serif;
+    font-size: 14px;
+    font-weight: 50;
+    line-height: 25px;
+    letter-spacing: 1px;
+    color: gray;
+
+}
+.section-6{
+    font-family: "Josefin Sans",sans-serif;
+    width: 100%;
+    background-image: url(/img/street.jpg);
+    background-attachment: fixed;
+    background-position: center left;
+    padding: 80px 0;
+}
+.btn{
+    font-size: 50px;
+    margin-left: -14px;
+    text-decoration: none;
+}
+.btn i{
+    font-size: 30px;
+    color: #9b9898ec;
+}
+
+.des{
+    border-bottom: 1px solid #9b9898ec;
+   
+}
+.card-body p{
+    border-bottom: 1px solid #9b9898ec;
+    padding-bottom: 30px;
+    color: #c0bcbcec;
+    
+}
+.section-7{
+    padding:150px 0;
+    font-family: "Josefin Sans",sans-serif;
+}
+.c-title-s7{
+    font-family: "Josefin Sans",sans-serif;
+    margin-top: 180px;
+    line-height: 35px;
+    font-weight: 700;
+    font-size: 25px;
+    letter-spacing: 5px;
+    color: black;
+}
+.c-text-s7{
+    font-family: "Josefin Sans",sans-serif;
+    margin-top: 23px;
+    color: #a09f9f;
+    font-size: 14px;
+    letter-spacing: 3px;
+    line-height: 25px;
+}
