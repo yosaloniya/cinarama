@@ -269,6 +269,7 @@ header{
 }
 .colums{
     position: relative;
+    display: block;
 }
 .data-s-8{
     font-family: "Josefin Sans",sans-serif;
@@ -282,29 +283,17 @@ header{
     top: 0;
     left: auto;
     margin-top: 18px;
-    margin-left: 22.8px;
+    margin-left: 23px;
     padding: 77.5px 40px;
     color: #dfdbdb;
     text-align: initial;
-    
+    transition: 0.5s;
 }
-/* .data-s-8:hover{
-    font-family: "Josefin Sans",sans-serif;
-    font-size: 15px;
-    letter-spacing: 0.5px;
-    line-height: 27px;
-    align-items: center;
-    width: 80%;
-    position: absolute;
-    background: rgb(0,0,0,0.4);
-    top: 0;
-    left: auto;
-    margin-top: 18px;
-    margin-left: 22.8px;
-    padding: 77.5px 40px;
-    color: #dfdbdb;
+.data-s-8:hover{
+    transform: scale(1.12);
+    overflow: hidden;
+}
 
-} */
 .icon-s-8 i{
     font-size: 19px;
     padding: 0 5px;
